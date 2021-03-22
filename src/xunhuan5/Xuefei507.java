@@ -1,6 +1,6 @@
 package xunhuan5;
 
-public class Xuefei {
+public class Xuefei507 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

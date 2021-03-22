@@ -6,7 +6,6 @@ public class JisuanPI525 {
 		// TODO Auto-generated method stub
 		double pi=0;
 		for (int a=1;a<=10;a++) {
-			pi=0;
 			for (int i=1;i<=a*10000;i++) {
 				double j=i;				
 				if(i%2!=0) {			
