@@ -39,7 +39,6 @@ public class Daiukuan522 {
 				payment=y+"-"+(i+12-y*12);
 			}
 			
-			//System.out.print("p"+y+"p");
 			
 			interest=rate/1200*balance;
 			principal=monthPay-interest;
