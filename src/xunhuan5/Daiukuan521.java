@@ -6,7 +6,7 @@ public class Daiukuan521 {
 		// TODO Auto-generated method stub
 		Scanner input=new Scanner(System.in);
 		System.out.print("请输入贷款总额");
-		double amount=input.nextDouble();
+		double amount=input.nextDouble(); 
 		System.out.print("请输入贷款年限");
 		int year=input.nextInt();
 		//System.out.println("lll"+amount);

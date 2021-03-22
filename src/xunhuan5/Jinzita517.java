@@ -8,7 +8,7 @@ public class Jinzita517 {
 		System.out.print("请输入一个1~15间的整数");
 		int l=input.nextInt();
 		for (int i=1;i<=l;i++) {
-			for (int j=1;j<2*l;j++) {
+			for (int j=1;j<2*l;j++) { 
 				if(Math.abs(j-l)>=i) {
 					System.out.print(" ");
 				}

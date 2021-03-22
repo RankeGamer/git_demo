@@ -10,7 +10,7 @@ public class Shangyeyingyong536 {
 		int check=0;
 		for (int i=0;i<9;i++) {						
 			int c=Integer.parseInt(isbn.charAt(i)+"");
-			check=check+c*(i+1);
+			check=check+c*(i+1); 
 		}
 		check=check%11;
 		String ck="";

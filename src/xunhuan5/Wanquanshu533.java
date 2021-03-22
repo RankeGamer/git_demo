@@ -13,6 +13,6 @@ public class Wanquanshu533 {
 			}
 			if(k==i) System.out.println(i);	
 		}
-	}
+	} 
 
 }

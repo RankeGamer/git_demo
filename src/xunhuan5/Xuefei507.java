@@ -13,5 +13,5 @@ public class Xuefei507 {
 		System.out.println("十年后学费为"+money);
 		System.out.print("四年内总学费为"+sum);
 	}
-
+ 
 }

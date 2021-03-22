@@ -10,7 +10,7 @@ public class Jisuane526 {
 			double item=1;
 			for (int i=1;i<=a*10000;i++) {
 				e=e+item;
-				item=item/i;				
+				item=item/i;				 
 			}
 			System.out.println("µ±i="+a*10000+"Ê±£¬e="+e);
 		}
